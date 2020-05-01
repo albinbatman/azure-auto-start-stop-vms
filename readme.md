@@ -4,7 +4,7 @@
 
 This template allows you to quickly set up an automatic schedule that starts and stops your virtual machine(s) in Azure, based solely on your own schedule and adaptation of the code. This code is based on starting and stopping the virtual machines on weekdays (Mon-Fri) and exclude the weekends (Sat-Sun).
 
-## ⚠️ Before you continuing reading...
+## ⚠️ Before you continue reading...
 Please review [Pricing - Automation | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/automation/) because this script expects you to use Automation in Azure and is also solely developed for this purpose.
 
 If you are looking for a different solution, please reconsider the following ones:
